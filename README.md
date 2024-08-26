@@ -1,6 +1,6 @@
 # portfolio
 
-My portfolio website simulating macOS's GUI: [🔗](https://portfolio-yash-tibadiyas-projects.vercel.app/)
+My portfolio website simulating macOS's GUI: [🔗](https://portfolio-yash-tibadiya.vercel.app)
 
 # My Portfolio - macOS GUI Simulation
 
