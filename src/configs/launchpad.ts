@@ -11,7 +11,7 @@ const launchpadApps: LaunchpadData[] = [
     id: "portfolio",
     title: "Portfolio",
     img: "img/icons/launchpad/portfolio.png",
-    link: "EXWIP:"
+    link: "https://portfolio-yash-tibadiya.vercel.app/"
   },
   {
     id: "community",
