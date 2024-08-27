@@ -21,6 +21,8 @@
     "@milkdown/preset-commonmark": "^7.3.6",
     "@milkdown/preset-gfm": "^7.3.6",
     "@milkdown/react": "^7.3.6",
+    "@react-three/drei": "^9.111.3",
+    "@react-three/fiber": "^8.17.6",
     "@rooks/use-raf": "^4.11.2",
     "date-fns": "^3.6.0",
     "framer-motion": "^11.1.7",

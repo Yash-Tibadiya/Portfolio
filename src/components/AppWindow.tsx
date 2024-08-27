@@ -202,7 +202,7 @@ const Window = (props: WindowProps) => {
           setMin={props.setMin}
           close={props.close}
         />
-        <span className="font-semibold text-c-700">{props.title}</span>
+        <span className="font-semibold text-c-700 select-none">{props.title}</span>
       </div>
       <div className="innner-window w-full overflow-y-hidden">{children}</div>
     </Rnd>

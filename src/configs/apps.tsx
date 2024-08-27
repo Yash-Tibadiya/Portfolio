@@ -73,6 +73,17 @@ const apps: AppsData[] = [
     content: <Terminal />
   },
   {
+    id: "playground",
+    title: "Playground",
+    desktop: true,
+    width: 1024,
+    minWidth: 375,
+    minHeight: 200,
+    x: -20,
+    img: "img/icons/playground.png",
+    content: <Playground />
+  },
+  {
     id: "github",
     title: "Github",
     desktop: false,
