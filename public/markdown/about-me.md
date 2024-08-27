@@ -34,6 +34,6 @@ Contact me by:
 
 ## Résumé
 
-- Normal version: [Download]()
+- Normal version: [Download](https://drive.google.com/file/d/1cgf2Vb326DjcxxHhPhXztUUMsW4NU6kt/view?usp=sharing)
 
 - Interesting version: [Open Terminal]()
