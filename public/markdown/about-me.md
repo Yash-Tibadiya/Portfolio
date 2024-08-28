@@ -31,9 +31,8 @@ Contact me by:
 - Figma: [@yash_tibadiya](https://www.figma.com/@yash_tibadiya)
 - Bento: [yash-1434](https://bento.me/yash-1434)
 
-
 ## Résumé
 
-- Normal version: [Download](https://drive.google.com/file/d/1cgf2Vb326DjcxxHhPhXztUUMsW4NU6kt/view?usp=sharing)
+- Normal version: [Download](https://drive.google.com/file/d/1sywOGC2h43oGdIZP3JkBx7qB-ri03iwu/view?usp=sharing)
 
 - Interesting version: [Open Terminal]()
